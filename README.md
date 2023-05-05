@@ -1,2 +1,6 @@
 # project_K
-This project is About our college Website and Details About it
+Our team members Are
+1.Akhil
+2.Venu
+3.Karthik
+4.Charan
